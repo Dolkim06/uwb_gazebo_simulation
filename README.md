@@ -1,3 +1,7 @@
+원본 출처: 
+https://github.com/bekirbostanci/pozyx_simulation
+https://github.com/advoard/advoard_localization/tree/master
+
 테스트 환경: Ubuntu 20.04LTS, ROS noetic
 
 ```
