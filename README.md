@@ -18,5 +18,5 @@ roslaunch pozyx_simulation uwb_simulation_initializing.launch
 
 # UWB Localiztion 실행
 ```
-rosrun advoard_loclization sqrrange_leastsqr_localization.py
+rosrun advoard_localization sqrrange_leastsqr_localization.py
 ```
