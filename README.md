@@ -11,7 +11,7 @@ export TURTLEBOT3_MODEL=burger
 roslaunch turtlebot3_gazebo turtlebot3_world.launch
 ```
 
-# UWB 시뮬레이션 실행
+# UWB simulation 실행
 ```
 roslaunch pozyx_simulation uwb_simulation_initializing.launch
 ```
